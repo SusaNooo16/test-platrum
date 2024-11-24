@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "semi": false,
+  "vueIndentScriptAndStyle": true,
+  "embeddedLanguageFormatting": "auto",
+  "endOfLine": "auto",
+  "useTabs": false,
+  "tabWidth": 2
+}
